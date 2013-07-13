@@ -1,7 +1,7 @@
 As 15+ do BNDES
 =======================
 
-Uma análise dos dados das top 15 empresas beneficiadas por investimentos diretos do BNDES em 2010 e 2011
+Uma análise dos dados das top 15 empresas beneficiadas por investimentos diretos do BNDES nos dois últimos anos
 
 Licença
 ---------
